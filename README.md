@@ -1,8 +1,3 @@
-Team Members:
-
-Mit Tank,
-Brian Nguyen,
-Keaton Elliott
 
 How our project works:
 
