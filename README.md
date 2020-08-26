@@ -7,7 +7,7 @@ access any indvidual's personal page, use the search page. Anyone in the databas
 picture of anyone from this page to get their full profile in a pop-up overlay.
 
 
-Issues with our project:
+Issues with project:
 
 When uploading a picture for your profile in the "Login" page, you have to click "Choose Image" and select your picture from your files, then click "Choose Image" again for your picture to show up. 
 We couldn't figure out how to solve this problem.
