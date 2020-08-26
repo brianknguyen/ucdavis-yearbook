@@ -1,5 +1,5 @@
 
-How our project works:
+How the project works:
 
 The main page includes "Upload Profile", "Search", and "Show Yearbook" options. Show Yearbook simply displays all the profiles of every entry in the database,
 in their entirety. The Upload profile page allows a user to submit a picture, name, major, and short bio combination, which will be put into the database. To 
