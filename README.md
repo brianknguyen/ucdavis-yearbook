@@ -13,7 +13,7 @@ When uploading a picture for your profile in the "Login" page, you have to click
 We couldn't figure out how to solve this problem.
 
 Search by name feature is case sensitive and will search for exactly the name that was added to the "Upload Profile" page. For example, if the name "John Doe" was added, 
-the search will not bring up anything if just "John" or just "Doe" is searched for. Also, our search page can display a max of 10 profiles at a time.
+the search will not bring up anything if just "John" or just "Doe" is searched for. Also, search page can display a max of 10 profiles at a time.
 
 Refreshing a page other than the start page doesn't work, so to accomplish this, navigate back to the main page and then return to whatever page desired to be refreshed.
 Similarly, attempting to navigate to one of the other pages by typing in the search bar also doesn't work, they must be accessed by the links.
