@@ -12,7 +12,7 @@ Issues with project:
 When uploading a picture for your profile in the "Login" page, you have to click "Choose Image" and select your picture from your files, then click "Choose Image" again for your picture to show up. 
 We couldn't figure out how to solve this problem.
 
-Our search by name feature is case sensitive and will search for exactly the name that was added to the "Upload Profile" page. For example, if the name "John Doe" was added, 
+Search by name feature is case sensitive and will search for exactly the name that was added to the "Upload Profile" page. For example, if the name "John Doe" was added, 
 the search will not bring up anything if just "John" or just "Doe" is searched for. Also, our search page can display a max of 10 profiles at a time.
 
 Refreshing a page other than the start page doesn't work, so to accomplish this, navigate back to the main page and then return to whatever page desired to be refreshed.
