@@ -1,3 +1,4 @@
+#UC Davis 2020 Yearbook
 
 How the project works:
 
